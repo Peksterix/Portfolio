@@ -4,9 +4,10 @@ Project Duration: October 2021 - February 2022
 Project Description:
 This was my Final Year Project is a Online 3D Party Video Game that was developed on Unity Engine in collaboration with Trident Computer College from Japan during my time at Nanyang Polytechnic. My team consisted of 2 artists and 2 other programmers from Trident.
 
-The game consists of 3 minigames, 1 programmer to each minigame. The minigame I worked on was King of the Hill where players are to fight off other players while attempting to stay on the highest platform the longest to gain points.
+The game consists of 3 minigames, 1 programmer to each minigame. The minigame I mainly worked on was King of the Hill where players are to fight off other players while attempting to stay on the highest platform the longest to gain points.
+
+The biggest challenge for this project was networking, I was the only programmer with some networking experience, even then, it wasn't extensive. So I had to help network the other 2 minigames as they were being made as well.
 
 Other areas I worked on:
-- Networking
-- Menus
-- Player mechanics
+- All menus
+- Player mechanics (all minigames)
