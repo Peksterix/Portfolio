@@ -1,0 +1,42 @@
+{
+    "weapons": [
+      {
+        "type": "WEAPON_COILGUN",
+        "cost": 2000,
+        "name": "Coilgun",
+        "description": [
+          "Your goto fish & chips maker",
+          "but find the chips yourself",
+          ""
+        ]
+      },
+      {
+        "type": "WEAPON_FLAK",
+        "cost": 2500,
+        "name": "Flak Cannon",
+        "description": [
+          "Shreds through scales with a scattered might,",
+          "no escape once you're in sight,",
+          "a thunderous blast, and a deadlier bite."
+        ]
+      },
+      {
+        "type": "WEAPON_TORPEDO",
+        "cost": 3500,
+        "name": "Torpedo Launcher",
+        "description": [
+          "Guranteed to leave holes in the fishes,",
+          "degrading the value of your catches,",
+          "left with scraps and unfufilled wishes."
+        ]
+      }
+    ],
+    "repair":
+    {
+      "costPerUnit": 500
+    },
+    "fuel":
+    { 
+      "costPerUnit": 10
+    }
+  }

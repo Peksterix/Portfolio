@@ -1,0 +1,154 @@
+{
+    "tutorial": [
+      {
+        "type": "info",
+        "title": "Tutorial - Welcome",
+        "lines": [
+          "Welcome to Dysbarism! You control a submarine",
+          "in a dangerous underwater world, searching for",
+          "the legendary city of Euthalassa."
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - Overworld",
+        "lines": [
+          "The game has two main views: Overworld and Combat.",
+          "In the Overworld, you'll explore, find resources,",
+          "and encounter enemies or friendly outposts."
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - Navigation",
+        "lines": [
+          "NAVIGATION: In the Overworld, RIGHT-CLICK on",
+          "the map to move your submarine to that location.",
+          "Moving consumes FUEL, shown in your status panel."
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - Sonar",
+        "lines": [
+          "SONAR: Press SPACEBAR to ping your radar and",
+          "reveal nearby points of interest. Be careful -",
+          "pinging attracts enemies to your location!"
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - Status Panel",
+        "lines": [
+          "STATUS PANEL: The UI shows your submarine's",
+          "ARMOR (top/bottom/left/right), FUEL level,",
+          "and MONEY. Monitor these resources carefully!"
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - Nodes",
+        "lines": [
+          "NODES: Colored circles on the map are interaction",
+          "points. There are 3 types of coloured nodes:",
+          "Red, green and blue."
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - Help",
+        "lines": [
+          "Red: 100% an enemy",
+          "Green: A wreckage event, or a city to upgrade stuff.",
+          "Blue: A supply node brimming with resources"
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - Help",
+        "lines": [
+          "Note that sonar in the world of Dysbarism isn't",
+          "always reliable. Just because it's not red doesn't",
+          "mean it can't be an enemy..."
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - Combat Basics",
+        "lines": [
+          "COMBAT: When encountering enemies, you'll enter",
+          "combat mode. Use WASD keys to maneuver your",
+          "submarine and avoid enemy attacks."
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - Weapons",
+        "lines": [
+          "WEAPONS: LEFT-CLICK fires your primary weapon.",
+          "RIGHT-CLICK fires your secondary weapon.",
+          "Different weapons work better against different enemies."
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - Combat Area",
+        "lines": [
+          "COMBAT AREA: Battles occur in a limited area",
+          "marked by warning triangles. Leaving this area",
+          "will push you back into the combat zone."
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - Victory & Rewards",
+        "lines": [
+          "VICTORY: Defeat all enemies to win combat.",
+          "You'll earn MONEY that can be spent at cities",
+          "for repairs, fuel, and upgrades."
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - City Nodes",
+        "lines": [
+          "CITIES: Visit green city nodes to repair your",
+          "submarine, refuel, and receive information",
+          "about your journey to Euthalassa."
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - Goal",
+        "lines": [
+          "GOAL: Navigate through increasingly dangerous",
+          "waters, following clues from city to city to",
+          "discover the mythical city of Euthalassa."
+        ],
+        "button_text": "Continue"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial - Help",
+        "lines": [
+          "HELP: Press the ? button anytime to view this tutorial.",
+          "Press ESC to access the menu.",
+          "Good luck on your journey, submariner!"
+        ],
+        "button_text": "Done"
+      }
+    ]
+  }

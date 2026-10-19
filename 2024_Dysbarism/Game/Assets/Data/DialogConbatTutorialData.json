@@ -1,0 +1,115 @@
+{
+    "tutorial": [
+      {
+        "type": "info",
+        "title": "Tutorial",
+        "lines": [
+          "WASD to move the submarine around",
+          "Q and E to rotate the submarine",
+          ""
+        ],
+        "button_text": "Okay"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial",
+        "lines": [
+          "The Herta auto stabilises itself, but in the event",
+          "of an impact, the stabilisation core will take",
+          "some time to regain control."
+        ],
+        "button_text": "Okay"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial",
+        "lines": [
+          "Press 1, 2, 3 and 4 to toggle weapon ports",
+          "The UI on the top left shows ammunition",
+          "The red and blue lights show the fire states."
+        ],
+        "button_text": "Okay"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial",
+        "lines": [
+          "When red, it responds to your left mouse button",
+          "When blue, it responds to your right mouse button",
+          "When neither, it means the weapon is inactive."
+        ],
+        "button_text": "Okay"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial",
+        "lines": [
+          "Like any submarine, once armour integrity",
+          "on any side reaches 0 integrity, a fatal",
+          "hull breach is to be expected."
+        ],
+        "button_text": "Okay"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial",
+        "lines": [
+          "However, this specific Herta class submarine ",
+          "uses an experimental reactive hull failsafe",
+          "that prevents a hull breach on armour failure."
+        ],
+        "button_text": "Okay"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial",
+        "lines": [
+          "This means that the submarine could survive",
+          "any amount of damage, but once the failsafe kicks",
+          "in, any subsequent damage will prove to be fatal."
+        ],
+        "button_text": "Okay"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial",
+        "lines": [
+          "Finally, if you ever need to revisit the combat",
+          "system tutorial, press the ? button at the top",
+          "right to bring it up again."
+        ],
+        "button_text": "Okay"
+      },
+      {
+        "type": "info",
+        "title": "Tutorial",
+        "lines": [
+          "Thank you for using HertaOS!",
+          "This covers all there is to know about",
+          "the combat system. Have a very safe day."
+        ],
+        "button_text": "Okay"
+      }
+    ],
+    "startup_choice": {
+      "type": "choice",
+      "title": "Tutorial",
+      "lines": [
+        "The Herta combat computer boots to life.",
+        "\"Defensive and offensive systems active.\"",
+        "\"Would you like a tour of the systems?\""
+      ],
+      "yes_text": "Yes",
+      "no_text": "No"
+    },
+    "skip_tutorial": {
+      "type": "info",
+      "title": "Tutorial",
+      "lines": [
+        "The controls of the Herta are all too familiar to you.",
+        "Luckily, you already know that you can press the ? button",
+        "at the top right to bring up the tutorial again!"
+      ],
+      "button_text": "Okay"
+    }
+  }

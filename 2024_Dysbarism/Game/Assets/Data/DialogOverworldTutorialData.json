@@ -1,0 +1,138 @@
+{
+  "prologue": [
+    {
+      "type": "info",
+      "title": "Prologue",
+      "lines": [
+        "Euthalassa. Every submariner has heard of",
+        "the city of Euthalassa. A safe haven for",
+        "any submariner brave enough to try finding it"
+      ],
+      "button_text": "Continue"
+    },
+    {
+      "type": "info",
+      "title": "Prologue",
+      "lines": [
+        "You are a privateer who scrimped up enough",
+        "scraps to finally purchase your very own",
+        "state-of-the-art submarine - the Herta."
+      ],
+      "button_text": "Continue"
+    },
+    {
+      "type": "info",
+      "title": "Prologue",
+      "lines": [
+        "After a long travel, you find yourself in",
+        "front of the first of many goal cities in your",
+        "attempt to find the hidden city of Eutalassa."
+      ],
+      "button_text": "Continue"
+    },
+    {
+      "type": "info",
+      "title": "Prologue",
+      "lines": [
+        "The computer of the Herta slowly whirs to life.",
+        "Looks like the routine system update is complete.",
+        "Sounds of drives and analog devices click."
+      ],
+      "button_text": "Continue"
+    },
+    {
+      "type": "choice",
+      "title": "Tutorial",
+      "lines": [
+        "The computer of eventually beeps to life.",
+        "\"Update complete. Main systems rebooted.\"",
+        "\"Would you like a tour of the Herta OS?\""
+      ],
+      "yes_text": "Yes",
+      "no_text": "No"
+    },
+    {
+      "type": "info",
+      "title": "Prologue",
+      "lines": [
+        "The controls of the Herta are all too",
+        "familiar to you. Luckily, you know that ",
+        "you can press H to bring up the manual again!"
+      ],
+      "button_text": "Okay"
+    }
+  ],
+  "tutorial": [
+    {
+      "type": "info",
+      "title": "Tutorial",
+      "lines": [
+        "Welcome to the Herta class submarine.",
+        "Right click on the world map panel to move.",
+        "Press the spacebar to ping the radar."
+      ],
+      "button_text": "Okay"
+    },
+    {
+      "type": "info",
+      "title": "Tutorial",
+      "lines": [
+        "Moving consumes fuel. Failure to provide",
+        "sufficient fuel will cause all systems,",
+        "including life support to cease operations."
+      ],
+      "button_text": "Okay"
+    },
+    {
+      "type": "info",
+      "title": "Tutorial",
+      "lines": [
+        "Pinging returns your surroundings. However,",
+        "the local fauna have shown agression to sonar",
+        "eminating from submarines."
+      ],
+      "button_text": "Okay"
+    },
+    {
+      "type": "info",
+      "title": "Tutorial",
+      "lines": [
+        "Exercise caution, as the wildlife also",
+        "appear to have the ability to track last",
+        "known ping locations."
+      ],
+      "button_text": "Okay"
+    },
+    {
+      "type": "info",
+      "title": "Tutorial",
+      "lines": [
+        "Finally, if you ever need to revisit the overworld",
+        "system tutorial, press the ? button at the top",
+        "right to bring it up again."
+      ],
+      "button_text": "Okay"
+    },
+    {
+      "type": "info",
+      "title": "Tutorial",
+      "lines": [
+        "Thank you for using HertaOS!",
+        "This covers all there is to know about",
+        "travelling. Have a very safe day."
+      ],
+      "button_text": "Okay"
+    }
+  ],
+  "exit_prompt": {
+    "type": "choice",
+    "title": "Abandon ship?",
+    "lines": [
+      "Are you sure you want to exit to the main menu?",
+      "You can't forever ignore the siren",
+      "calls of the depths..."
+    ],
+    "yes_text": "Yes",
+    "no_text": "No"
+  }
+}
