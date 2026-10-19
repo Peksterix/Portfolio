@@ -1,0 +1,16 @@
+Game: Dysbarism
+Project Duration: 2025 January - 2025 April
+
+Project Description:
+Dysbarism is a game of deep-sea exploration with a sonar and physics-based combat.
+
+This game was developed with 3 other programmers, where I was heavily involved in the game idea and system design along side my tech lead.
+
+Notable features/systems that I worked on:
+- Overworld player mechanics
+- Overworld hitboxes
+- Sonar/Pinging system
+- Interactable Node System
+- Dialogue System
+- Several UI systems (Buttons, UITransform and tweening)
+- Several UIs (pause & shop)
